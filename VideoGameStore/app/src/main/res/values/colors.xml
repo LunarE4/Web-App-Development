@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="night_blue">#0a0c11</color>
+
+    <color name="vermilion_green">#30373A</color>
+    <color name="some_blue">#43514F</color>
+    <color name="dark_green">#3D4C53</color>
+    <color name="silver_green">#4E636C</color>
+    <color name="moon_green">#6A7C85</color>
+    <color name="slate_green">#6D8A96</color>
+    <color name="moonlight_green">#BAD0DB</color>
+    <color name="light_green">#D2E8F5</color>
+
+    <color name="dark_cyan">#2E3E44</color>
+    <color name="mid_cyan">#40565E</color>
+
+
+    <color name="red">#ff4057</color>
+    <color name="accent_1">#DCDCDC</color>
+    <color name="accent_2">#282634</color>
+    <color name="accent_3">#C1BBBB</color>
+    <color name="accent_4">#978E8E</color>
+    <color name="accent_5">#706969</color>
+
+</resources>

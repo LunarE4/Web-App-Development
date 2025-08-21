@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916054486068",
+    "project_id": "videogameshop-569de",
+    "storage_bucket": "videogameshop-569de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916054486068:android:b00f2cb6ebba4909ebee61",
+        "android_client_info": {
+          "package_name": "com.example.videogamestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-5uJifgvdm_lLbdxEWJQWT8iTGGcZAqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

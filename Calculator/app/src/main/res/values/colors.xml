@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="grey">#1E1E1E</color>
+    <color name="mid_grey">#353535</color>
+    <color name="light_grey">#F1F1F1</color>
+
+    <color name="silver">#BFB5AF</color>
+    <color name="bone">#ECE2D0</color>
+    <color name="pale_dogwood">#D5B9B2</color>
+    <color name="rose_taupe">#A26769</color>
+    <color name="violet">#582C4D</color>
+
+    <color name="viola">#591548</color>
+    <color name="dark_cyan">#2E3E44</color>
+
+    <color name="eggplant">#7A3756</color>
+    <color name="h_green">#5A716A</color>
+    <color name="light_coral">#E58C8A</color>
+    <color name="timberwolf">#D2D4C8</color>
+    <color name="no_blue">#A0D2DB</color>
+
+</resources>
